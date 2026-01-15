@@ -23,7 +23,7 @@ repository               : "junghoahn26/junghoahn26.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "안정호.jpg"
   name             : "Jungho Ahn"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Student at Seoul National University"
